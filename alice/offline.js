@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1741321930,
+	"version": 1741322531,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -34,6 +34,7 @@
 		"images/sprite9-sheet0.png",
 		"images/icon-sheet0.png",
 		"media/stardew-valley-ost-spirits-eve-festival.ogg",
+		"media/phiihl-kwiyyaanhl-n_36z7nbs.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
